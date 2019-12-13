@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/models/facenet/20191211-041218/model-20191211-041218.ckpt-0"
+all_model_checkpoint_paths: "/home/ubuntu/models/facenet/20191211-041218/model-20191211-041218.ckpt-0"
